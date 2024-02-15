@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Devendra Venkat
+# Hey there 👋 I'm Devendra Venkat
 ## About me:
 - I'm a Front End Developer,Designer and a Student
 - Learning & making my way through : Full-Stack Development | MERN | APIs | NextJs | Typescript | Open-Source
