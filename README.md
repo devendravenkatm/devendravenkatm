@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hey there 👋 I'm Devendra Venkat
+## About me:
+- I'm a Front End Developer,Designer and a Student
+- Learning & making my way through : Full-Stack Development | Open-Source | MERN | APIs | NextJs | Typescript
+- Hobbies : Reading & listening to music 🎧
+<p>
+  <a href="https://github.com/devendravenkatm">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java" />
+  </a>
+</p>
 
-<!--
-**devendravenkatm/devendravenkatm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Checkout my portfolio website [here](https://devendravenkatm.github.io/)
 
-Here are some ideas to get you started:
+### Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/devendravenkat/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/agentofchaos000">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
