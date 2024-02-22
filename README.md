@@ -3,7 +3,7 @@
 - I'm a Front End Developer,Designer and a Student
 - Learning & making my way through : Full-Stack Development | MERN | APIs | NextJs | Typescript | Open-Source
 - Hobbies : Reading & listening to music 🎧
-- Email : [Click Here](mutyala.devendravenkat15@gmail.com)
+- Email : [Click Here](mailto:mutyala.devendravenkat15@gmail.com)
 <p>
   <a href="https://github.com/devendravenkatm">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java" />
