@@ -6,7 +6,7 @@
 - Email : [Click Here](mailto:mutyala.devendravenkat15@gmail.com)
 <p>
   <a href="https://github.com/devendravenkatm">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nodejs,python,java" />
   </a>
 </p>
 
