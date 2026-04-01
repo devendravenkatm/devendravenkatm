@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Devendra Venkat
 ## About me:
-- I'm a Front End Developer,Designer and a Student
+- I'm a Developer,Designer and a Student
 - Learning & making my way through : Full-Stack Development | MERN | APIs | NextJs | Typescript | Open-Source
 - Hobbies : Reading & listening to music 🎧
 - Email : [Click Here](mailto:mutyala.devendravenkat15@gmail.com)
